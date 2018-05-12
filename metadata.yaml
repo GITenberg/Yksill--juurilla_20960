@@ -1,0 +1,38 @@
+_repo: Yksill--juurilla_20960
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Suomalainen, Samuli
+    aliases:
+    - Samuli S.
+    - S., Samuli
+    birthdate: 1850
+    deathdate: 1907
+    gutenberg_agent_id: '7732'
+    url: http://www.gutenberg.org/2009/agents/7732
+    wikipedia: http://fi.wikipedia.org/wiki/Carl_Gustaf_Samuel_Suomalainen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harraden, Beatrice
+    birthdate: 1864
+    deathdate: 1936
+    gutenberg_agent_id: '4389'
+    url: http://www.gutenberg.org/2009/agents/4389
+    wikipedia: http://en.wikipedia.org/wiki/Beatrice_Harraden
+description: ''
+gutenberg_issued: '2007-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20960'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PR'
+title: Yksillä juurilla
+url: http://www.gutenberg.org/ebooks/20960
