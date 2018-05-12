@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4389
     wikipedia: http://en.wikipedia.org/wiki/Beatrice_Harraden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20960#Yksill--juurilla
 gutenberg_issued: '2007-04-02'
 gutenberg_type: Text
 identifiers:
